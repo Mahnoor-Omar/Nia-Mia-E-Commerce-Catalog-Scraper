@@ -6,7 +6,7 @@
 * **Tools Used:** Python, Requests, BeautifulSoup4, Pandas.
 
 ### 2. Setup Instructions
-1. Clone this repo: `git clone [Your Repository Link]`
+1. Clone this repo: `git clone [(https://github.com/Mahnoor-Omar/Website-Webscraping-)]`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run script: `python scraper.py`
 
